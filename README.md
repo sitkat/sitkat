@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋Hi, I'm Kate
 ⚡ A former student who graduated from the G.V. Plekhanov<br>🔭 I’m currently working on Flutter projects.<br>🌱 I’m currently studying mobile development for IOS and Android.<br>
 
 
